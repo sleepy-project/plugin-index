@@ -1,0 +1,14 @@
+{
+    "id": "device-status",
+    "name": "Device Status",
+    "description": "Handles device management and websocket connections.",
+    "author": "Krnl",
+    "latest": "1.1.0",
+    "versions": {
+        "1.1.0": {
+            "url": "https://github.com/sleepy-plugins/device-status/archive/refs/tags/v1.1.0.zip",
+            "type": "zip"
+        }
+    },
+    "dependencies": {}
+}
