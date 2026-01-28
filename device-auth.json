@@ -1,0 +1,13 @@
+{
+    "id": "device-auth",
+    "name": "Device Authentication",
+    "description": "Handles authentication for devices",
+    "author": "Krnl",
+    "latest": "1.0.0",
+    "versions": {
+        "1.0.0": {
+            "url": "https://github.com/sleepy-plugins/device-auth/archive/refs/tags/v1.0.0.zip",
+            "type": "zip"
+        }
+    }
+}
