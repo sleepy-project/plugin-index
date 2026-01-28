@@ -1,0 +1,13 @@
+{
+    "id": "main-status",
+    "name": "Main Status",
+    "description": "Handles system status endpoints.",
+    "author": "Krnl",
+    "latest": "1.0.0",
+    "versions": {
+        "1.0.0": {
+            "url": "https://github.com/sleepy-plugins/main-status/archive/refs/tags/v1.0.0.zip",
+            "type": "zip"
+        }
+    }
+}
