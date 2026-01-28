@@ -1,0 +1,13 @@
+{
+    "id": "plugins-manager",
+    "name": "Plugins Manager",
+    "description": "CLI tool to manage Sleepy plugins.",
+    "author": "Krnl",
+    "latest": "1.1.0",
+    "versions": {
+        "1.1.0": {
+            "url": "https://github.com/sleepy-plugins/plugins-manager/archive/refs/tags/v1.1.0.zip",
+            "type": "zip"
+        }
+    }
+}
