@@ -1,0 +1,13 @@
+{
+    "id": "auto-main-status",
+    "name": "Automatic Main Status",
+    "description": "Automatically updates system status based on device activity.",
+    "author": "Krnl",
+    "latest": "1.0.0",
+    "versions": {
+        "1.0.0": {
+            "url": "https://github.com/sleepy-plugins/auto-main-status/archive/refs/tags/v1.0.0.zip",
+            "type": "zip"
+        }
+    }
+}
