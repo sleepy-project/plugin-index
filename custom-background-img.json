@@ -1,0 +1,13 @@
+{
+    "id": "custom-background-img",
+    "name": "Custom Background Image",
+    "description": "Custom background image plugin",
+    "author": "Krnl",
+    "latest": "1.0.0",
+    "versions": {
+        "1.0.0": {
+            "url": "https://github.com/sleepy-plugins/custom-background-img/archive/refs/tags/v1.0.0.zip",
+            "type": "zip"
+        }
+    }
+}
